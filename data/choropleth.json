@@ -1,0 +1,4506 @@
+{
+    "Applications": [
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Alabama",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1053,
+          "Code": "AL",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Alaska",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1045,
+          "Code": "AK",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Arizona",
+          "Medical Expansion": "Y",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1067,
+          "Code": "AZ",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Arkansas",
+          "Medical Expansion": "Y",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1098,
+          "Code": "AR",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "California",
+          "Medical Expansion": "Y",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1098,
+          "Code": "CA",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Colorado",
+          "Medical Expansion": "Y",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1098,
+          "Code": "CO",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Connecticut",
+          "Medical Expansion": "Y",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1098,
+          "Code": "CT",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Delaware",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP SBM",
+          "Value": 1078,
+          "Code": "DE",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Florida",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1028,
+          "Code": "FL",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Georgia",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1087,
+          "Code": "GA",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Hawaii",
+          "Medical Expansion": "N",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP SBM",
+          "Value": 1021,
+          "Code": "HI",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Idaho",
+          "Medical Expansion": "N",
+          "Exchange": "SBM",
+          "Shop Type": "SHOP SBM",
+          "Value": 1076,
+          "Code": "ID",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Illinois",
+          "Medical Expansion": "Y",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1031,
+          "Code": "IL",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Indiana",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1062,
+          "Code": "IN",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Iowa",
+          "Medical Expansion": "Y",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1031,
+          "Code": "IA",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Kansas",
+          "Medical Expansion": "N",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1053,
+          "Code": "KS",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Kentucky",
+          "Medical Expansion": "N",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1053,
+          "Code": "KY",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Louisiana",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1067,
+          "Code": "LA",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Maine",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1098,
+          "Code": "ME",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Maryland",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1098,
+          "Code": "MD",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Massachusetts",
+          "Medical Expansion": "N",
+          "Exchange": "SBM",
+          "Shop Type": "SHOP SBM",
+          "Value": 1056,
+          "Code": "MA",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Michigan",
+          "Medical Expansion": "Y",
+          "Exchange": "SBM",
+          "Shop Type": "SHOP SBM",
+          "Value": 1024,
+          "Code": "MI",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Minnesota",
+          "Medical Expansion": "Y",
+          "Exchange": "SBM",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "MN",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Mississippi",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP SBM",
+          "Value": 1089,
+          "Code": "MS",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Missouri",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1054,
+          "Code": "MO",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Montana",
+          "Medical Expansion": "N",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1098,
+          "Code": "MT",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Nebraska",
+          "Medical Expansion": "N",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1039,
+          "Code": "NE",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Nevada",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "NV",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "New Hampshire",
+          "Medical Expansion": "Y",
+          "Exchange": "SPM ",
+          "Shop Type": "SHOP FFM",
+          "Value": 1041,
+          "Code": "NH",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "New Jersey",
+          "Medical Expansion": "N",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP SBM",
+          "Value": 1045,
+          "Code": "NJ",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "New Mexico",
+          "Medical Expansion": "Y",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1023,
+          "Code": "NM",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "New York",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "NY",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "North Carolina",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1056,
+          "Code": "NC",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "North Dakota",
+          "Medical Expansion": "Y",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1034,
+          "Code": "ND",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Ohio",
+          "Medical Expansion": "Y",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1028,
+          "Code": "OH",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Oklahoma",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1038,
+          "Code": "OK",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Oregon",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "OR",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Pennsylvania",
+          "Medical Expansion": "N",
+          "Exchange": "SBM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1031,
+          "Code": "PA",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Rhode Island",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP SBM",
+          "Value": 1058,
+          "Code": "RI",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "South Carolina",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1023,
+          "Code": "SC",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "South Dakota",
+          "Medical Expansion": "N",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1089,
+          "Code": "SD",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Tennessee",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1034,
+          "Code": "TN",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Texas",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1023,
+          "Code": "TX",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Utah",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP SBM",
+          "Value": 1068,
+          "Code": "UT",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Vermont",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "VT",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Virginia",
+          "Medical Expansion": "N",
+          "Exchange": "SBM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1021,
+          "Code": "VA",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Washington",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "WA",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "West Virginia",
+          "Medical Expansion": "Y",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1023,
+          "Code": "WV",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Wisconsin",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1048,
+          "Code": "WI",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Wyoming",
+          "Medical Expansion": "N",
+          "Exchange": "SBM",
+          "Shop Type": "SHOP SBM",
+          "Value": 1059,
+          "Code": "WY",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Alabama",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1053,
+          "Code": "AL",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Alaska",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1045,
+          "Code": "AK",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Arizona",
+          "Medical Expansion": "Y",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1067,
+          "Code": "AZ",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Arkansas",
+          "Medical Expansion": "Y",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1098,
+          "Code": "AR",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "California",
+          "Medical Expansion": "Y",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1098,
+          "Code": "CA",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Colorado",
+          "Medical Expansion": "Y",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1098,
+          "Code": "CO",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Connecticut",
+          "Medical Expansion": "Y",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1098,
+          "Code": "CT",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Delaware",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP SBM",
+          "Value": 1078,
+          "Code": "DE",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Florida",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1028,
+          "Code": "FL",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Georgia",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1087,
+          "Code": "GA",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Hawaii",
+          "Medical Expansion": "N",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP SBM",
+          "Value": 1021,
+          "Code": "HI",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Idaho",
+          "Medical Expansion": "N",
+          "Exchange": "SBM",
+          "Shop Type": "SHOP SBM",
+          "Value": 1076,
+          "Code": "ID",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Illinois",
+          "Medical Expansion": "Y",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1031,
+          "Code": "IL",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Indiana",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1062,
+          "Code": "IN",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Iowa",
+          "Medical Expansion": "Y",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1031,
+          "Code": "IA",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Kansas",
+          "Medical Expansion": "N",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1053,
+          "Code": "KS",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Kentucky",
+          "Medical Expansion": "N",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1053,
+          "Code": "KY",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Louisiana",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1067,
+          "Code": "LA",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Maine",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1098,
+          "Code": "ME",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Maryland",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1098,
+          "Code": "MD",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Massachusetts",
+          "Medical Expansion": "N",
+          "Exchange": "SBM",
+          "Shop Type": "SHOP SBM",
+          "Value": 1056,
+          "Code": "MA",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Michigan",
+          "Medical Expansion": "Y",
+          "Exchange": "SBM",
+          "Shop Type": "SHOP SBM",
+          "Value": 1024,
+          "Code": "MI",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Minnesota",
+          "Medical Expansion": "Y",
+          "Exchange": "SBM",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "MN",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Mississippi",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP SBM",
+          "Value": 1089,
+          "Code": "MS",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Missouri",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1054,
+          "Code": "MO",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Montana",
+          "Medical Expansion": "N",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1098,
+          "Code": "MT",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Nebraska",
+          "Medical Expansion": "N",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1039,
+          "Code": "NE",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Nevada",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "NV",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "New Hampshire",
+          "Medical Expansion": "Y",
+          "Exchange": "SPM ",
+          "Shop Type": "SHOP FFM",
+          "Value": 1041,
+          "Code": "NH",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "New Jersey",
+          "Medical Expansion": "N",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP SBM",
+          "Value": 1045,
+          "Code": "NJ",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "New Mexico",
+          "Medical Expansion": "Y",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1023,
+          "Code": "NM",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "New York",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "NY",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "North Carolina",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1056,
+          "Code": "NC",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "North Dakota",
+          "Medical Expansion": "Y",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1034,
+          "Code": "ND",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Ohio",
+          "Medical Expansion": "Y",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1028,
+          "Code": "OH",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Oklahoma",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1038,
+          "Code": "OK",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Oregon",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "OR",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Pennsylvania",
+          "Medical Expansion": "N",
+          "Exchange": "SBM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1031,
+          "Code": "PA",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Rhode Island",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP SBM",
+          "Value": 1058,
+          "Code": "RI",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "South Carolina",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1023,
+          "Code": "SC",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "South Dakota",
+          "Medical Expansion": "N",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1089,
+          "Code": "SD",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Tennessee",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1034,
+          "Code": "TN",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Texas",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1023,
+          "Code": "TX",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Utah",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP SBM",
+          "Value": 1068,
+          "Code": "UT",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Vermont",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "VT",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Virginia",
+          "Medical Expansion": "N",
+          "Exchange": "SBM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1021,
+          "Code": "VA",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Washington",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "WA",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "West Virginia",
+          "Medical Expansion": "Y",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1023,
+          "Code": "WV",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Wisconsin",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1048,
+          "Code": "WI",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Wyoming",
+          "Medical Expansion": "N",
+          "Exchange": "SBM",
+          "Shop Type": "SHOP SBM",
+          "Value": 1059,
+          "Code": "WY",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Alabama",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1053,
+          "Code": "AL",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Alaska",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1045,
+          "Code": "AK",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Arizona",
+          "Medical Expansion": "Y",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1067,
+          "Code": "AZ",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Arkansas",
+          "Medical Expansion": "Y",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1098,
+          "Code": "AR",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "California",
+          "Medical Expansion": "Y",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1098,
+          "Code": "CA",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Colorado",
+          "Medical Expansion": "Y",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1098,
+          "Code": "CO",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Connecticut",
+          "Medical Expansion": "Y",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1098,
+          "Code": "CT",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Delaware",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP SBM",
+          "Value": 1078,
+          "Code": "DE",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Florida",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1028,
+          "Code": "FL",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Georgia",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1087,
+          "Code": "GA",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Hawaii",
+          "Medical Expansion": "N",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP SBM",
+          "Value": 1021,
+          "Code": "HI",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Idaho",
+          "Medical Expansion": "N",
+          "Exchange": "SBM",
+          "Shop Type": "SHOP SBM",
+          "Value": 1076,
+          "Code": "ID",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Illinois",
+          "Medical Expansion": "Y",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1031,
+          "Code": "IL",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Indiana",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1062,
+          "Code": "IN",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Iowa",
+          "Medical Expansion": "Y",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1031,
+          "Code": "IA",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Kansas",
+          "Medical Expansion": "N",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1053,
+          "Code": "KS",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Kentucky",
+          "Medical Expansion": "N",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1053,
+          "Code": "KY",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Louisiana",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1067,
+          "Code": "LA",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Maine",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1098,
+          "Code": "ME",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Maryland",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1098,
+          "Code": "MD",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Massachusetts",
+          "Medical Expansion": "N",
+          "Exchange": "SBM",
+          "Shop Type": "SHOP SBM",
+          "Value": 1056,
+          "Code": "MA",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Michigan",
+          "Medical Expansion": "Y",
+          "Exchange": "SBM",
+          "Shop Type": "SHOP SBM",
+          "Value": 1024,
+          "Code": "MI",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Minnesota",
+          "Medical Expansion": "Y",
+          "Exchange": "SBM",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "MN",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Mississippi",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP SBM",
+          "Value": 1089,
+          "Code": "MS",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Missouri",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1054,
+          "Code": "MO",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Montana",
+          "Medical Expansion": "N",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1098,
+          "Code": "MT",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Nebraska",
+          "Medical Expansion": "N",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1039,
+          "Code": "NE",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Nevada",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "NV",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "New Hampshire",
+          "Medical Expansion": "Y",
+          "Exchange": "SPM ",
+          "Shop Type": "SHOP FFM",
+          "Value": 1041,
+          "Code": "NH",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "New Jersey",
+          "Medical Expansion": "N",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP SBM",
+          "Value": 1045,
+          "Code": "NJ",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "New Mexico",
+          "Medical Expansion": "Y",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1023,
+          "Code": "NM",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "New York",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "NY",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "North Carolina",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1056,
+          "Code": "NC",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "North Dakota",
+          "Medical Expansion": "Y",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1034,
+          "Code": "ND",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Ohio",
+          "Medical Expansion": "Y",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1028,
+          "Code": "OH",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Oklahoma",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1038,
+          "Code": "OK",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Oregon",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "OR",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Pennsylvania",
+          "Medical Expansion": "N",
+          "Exchange": "SBM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1031,
+          "Code": "PA",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Rhode Island",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP SBM",
+          "Value": 1058,
+          "Code": "RI",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "South Carolina",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1023,
+          "Code": "SC",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "South Dakota",
+          "Medical Expansion": "N",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1089,
+          "Code": "SD",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Tennessee",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1034,
+          "Code": "TN",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Texas",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1023,
+          "Code": "TX",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Utah",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP SBM",
+          "Value": 1068,
+          "Code": "UT",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Vermont",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "VT",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Virginia",
+          "Medical Expansion": "N",
+          "Exchange": "SBM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1021,
+          "Code": "VA",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Washington",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "WA",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "West Virginia",
+          "Medical Expansion": "Y",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1023,
+          "Code": "WV",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Wisconsin",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1048,
+          "Code": "WI",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Application Submitted(D)",
+          "State": "Wyoming",
+          "Medical Expansion": "N",
+          "Exchange": "SBM",
+          "Shop Type": "SHOP SBM",
+          "Value": 1059,
+          "Code": "WY",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Alabama",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 9833,
+          "Code": "AL",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Alaska",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 897,
+          "Code": "AK",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Arizona",
+          "Medical Expansion": "Y",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 5200,
+          "Code": "AZ",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Arkansas",
+          "Medical Expansion": "Y",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 14484,
+          "Code": "AR",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "California",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "CA",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Colorado",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "CO",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Connecticut",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "CT",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Delaware",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "DE",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Florida",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 33459,
+          "Code": "FL",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Georgia",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 10039,
+          "Code": "GA",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Hawaii",
+          "Medical Expansion": "N",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP SBM",
+          "Value": 897,
+          "Code": "HI",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Idaho",
+          "Medical Expansion": "N",
+          "Exchange": "SBM",
+          "Shop Type": "SHOP SBM",
+          "Value": 2361,
+          "Code": "ID",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Illinois",
+          "Medical Expansion": "Y",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 8200,
+          "Code": "IL",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Indiana",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 6498,
+          "Code": "IN",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Iowa",
+          "Medical Expansion": "Y",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 3538,
+          "Code": "IA",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Kansas",
+          "Medical Expansion": "N",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1692,
+          "Code": "KS",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Kentucky",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "KY",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Louisiana",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 5637,
+          "Code": "LA",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Maine",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1850,
+          "Code": "ME",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Maryland",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "MD",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Massachusetts",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "MA",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Michigan",
+          "Medical Expansion": "Y",
+          "Exchange": "SBM",
+          "Shop Type": "SHOP SBM",
+          "Value": 13090,
+          "Code": "MI",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Minnesota",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "MN",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Mississippi",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP SBM",
+          "Value": 7359,
+          "Code": "MS",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Missouri",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 6069,
+          "Code": "MO",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Montana",
+          "Medical Expansion": "N",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1431,
+          "Code": "MT",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Nebraska",
+          "Medical Expansion": "N",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 3464,
+          "Code": "NE",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Nevada",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "NV",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "New Hampshire",
+          "Medical Expansion": "Y",
+          "Exchange": "SPM ",
+          "Shop Type": "SHOP FFM",
+          "Value": 1369,
+          "Code": "NH",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "New Jersey",
+          "Medical Expansion": "N",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP SBM",
+          "Value": 16210,
+          "Code": "NJ",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "New Mexico",
+          "Medical Expansion": "Y",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1234,
+          "Code": "NM",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "New York",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "NY",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "North Carolina",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 12468,
+          "Code": "NC",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "North Dakota",
+          "Medical Expansion": "Y",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 426,
+          "Code": "ND",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Ohio",
+          "Medical Expansion": "Y",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 7208,
+          "Code": "OH",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Oklahoma",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 4248,
+          "Code": "OK",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Oregon",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "OR",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Pennsylvania",
+          "Medical Expansion": "N",
+          "Exchange": "SBM",
+          "Shop Type": "SHOP FFM",
+          "Value": 13245,
+          "Code": "PA",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Rhode Island",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "RI",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "South Carolina",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 9600,
+          "Code": "SC",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "South Dakota",
+          "Medical Expansion": "N",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 627,
+          "Code": "SD",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Tennessee",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 29996,
+          "Code": "TN",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Texas",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 38957,
+          "Code": "TX",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Utah",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP SBM",
+          "Value": 1766,
+          "Code": "UT",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Vermont",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "VT",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Virginia",
+          "Medical Expansion": "N",
+          "Exchange": "SBM",
+          "Shop Type": "SHOP FFM",
+          "Value": 8801,
+          "Code": "VA",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Washington",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "WA",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "West Virginia",
+          "Medical Expansion": "Y",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 2949,
+          "Code": "WV",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Wisconsin",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 16904,
+          "Code": "WI",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Wyoming",
+          "Medical Expansion": "N",
+          "Exchange": "SBM",
+          "Shop Type": "SHOP SBM",
+          "Value": 389,
+          "Code": "WY",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Alabama",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 9833,
+          "Code": "AL",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Alaska",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 897,
+          "Code": "AK",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Arizona",
+          "Medical Expansion": "Y",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 5200,
+          "Code": "AZ",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Arkansas",
+          "Medical Expansion": "Y",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 14484,
+          "Code": "AR",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "California",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "CA",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Colorado",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "CO",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Connecticut",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "CT",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Delaware",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "DE",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Florida",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 33459,
+          "Code": "FL",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Georgia",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 10039,
+          "Code": "GA",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Hawaii",
+          "Medical Expansion": "N",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP SBM",
+          "Value": 897,
+          "Code": "HI",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Idaho",
+          "Medical Expansion": "N",
+          "Exchange": "SBM",
+          "Shop Type": "SHOP SBM",
+          "Value": 2361,
+          "Code": "ID",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Illinois",
+          "Medical Expansion": "Y",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 8200,
+          "Code": "IL",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Indiana",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 6498,
+          "Code": "IN",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Iowa",
+          "Medical Expansion": "Y",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 3538,
+          "Code": "IA",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Kansas",
+          "Medical Expansion": "N",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1692,
+          "Code": "KS",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Kentucky",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "KY",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Louisiana",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 5637,
+          "Code": "LA",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Maine",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1850,
+          "Code": "ME",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Maryland",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "MD",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Massachusetts",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "MA",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Michigan",
+          "Medical Expansion": "Y",
+          "Exchange": "SBM",
+          "Shop Type": "SHOP SBM",
+          "Value": 13090,
+          "Code": "MI",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Minnesota",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "MN",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Mississippi",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP SBM",
+          "Value": 7359,
+          "Code": "MS",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Missouri",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 6069,
+          "Code": "MO",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Montana",
+          "Medical Expansion": "N",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1431,
+          "Code": "MT",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Nebraska",
+          "Medical Expansion": "N",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 3464,
+          "Code": "NE",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Nevada",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "NV",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "New Hampshire",
+          "Medical Expansion": "Y",
+          "Exchange": "SPM ",
+          "Shop Type": "SHOP FFM",
+          "Value": 1369,
+          "Code": "NH",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "New Jersey",
+          "Medical Expansion": "N",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP SBM",
+          "Value": 16210,
+          "Code": "NJ",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "New Mexico",
+          "Medical Expansion": "Y",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1234,
+          "Code": "NM",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "New York",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "NY",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "North Carolina",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 12468,
+          "Code": "NC",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "North Dakota",
+          "Medical Expansion": "Y",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 426,
+          "Code": "ND",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Ohio",
+          "Medical Expansion": "Y",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 7208,
+          "Code": "OH",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Oklahoma",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 4248,
+          "Code": "OK",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Oregon",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "OR",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Pennsylvania",
+          "Medical Expansion": "N",
+          "Exchange": "SBM",
+          "Shop Type": "SHOP FFM",
+          "Value": 13245,
+          "Code": "PA",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Rhode Island",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "RI",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "South Carolina",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 9600,
+          "Code": "SC",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "South Dakota",
+          "Medical Expansion": "N",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 627,
+          "Code": "SD",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Tennessee",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 29996,
+          "Code": "TN",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Texas",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 38957,
+          "Code": "TX",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Utah",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP SBM",
+          "Value": 1766,
+          "Code": "UT",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Vermont",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "VT",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Virginia",
+          "Medical Expansion": "N",
+          "Exchange": "SBM",
+          "Shop Type": "SHOP FFM",
+          "Value": 8801,
+          "Code": "VA",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Washington",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "WA",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "West Virginia",
+          "Medical Expansion": "Y",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 2949,
+          "Code": "WV",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Wisconsin",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 16904,
+          "Code": "WI",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Wyoming",
+          "Medical Expansion": "N",
+          "Exchange": "SBM",
+          "Shop Type": "SHOP SBM",
+          "Value": 389,
+          "Code": "WY",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Alabama",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 9833,
+          "Code": "AL",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Alaska",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 897,
+          "Code": "AK",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Arizona",
+          "Medical Expansion": "Y",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 5200,
+          "Code": "AZ",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Arkansas",
+          "Medical Expansion": "Y",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 14484,
+          "Code": "AR",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "California",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "CA",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Colorado",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "CO",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Connecticut",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "CT",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Delaware",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "DE",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Florida",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 33459,
+          "Code": "FL",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Georgia",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 10039,
+          "Code": "GA",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Hawaii",
+          "Medical Expansion": "N",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP SBM",
+          "Value": 897,
+          "Code": "HI",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Idaho",
+          "Medical Expansion": "N",
+          "Exchange": "SBM",
+          "Shop Type": "SHOP SBM",
+          "Value": 2361,
+          "Code": "ID",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Illinois",
+          "Medical Expansion": "Y",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 8200,
+          "Code": "IL",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Indiana",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 6498,
+          "Code": "IN",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Iowa",
+          "Medical Expansion": "Y",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 3538,
+          "Code": "IA",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Kansas",
+          "Medical Expansion": "N",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1692,
+          "Code": "KS",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Kentucky",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "KY",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Louisiana",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 5637,
+          "Code": "LA",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Maine",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1850,
+          "Code": "ME",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Maryland",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "MD",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Massachusetts",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "MA",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Michigan",
+          "Medical Expansion": "Y",
+          "Exchange": "SBM",
+          "Shop Type": "SHOP SBM",
+          "Value": 13090,
+          "Code": "MI",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Minnesota",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "MN",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Mississippi",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP SBM",
+          "Value": 7359,
+          "Code": "MS",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Missouri",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 6069,
+          "Code": "MO",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Montana",
+          "Medical Expansion": "N",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1431,
+          "Code": "MT",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Nebraska",
+          "Medical Expansion": "N",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 3464,
+          "Code": "NE",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Nevada",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "NV",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "New Hampshire",
+          "Medical Expansion": "Y",
+          "Exchange": "SPM ",
+          "Shop Type": "SHOP FFM",
+          "Value": 1369,
+          "Code": "NH",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "New Jersey",
+          "Medical Expansion": "N",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP SBM",
+          "Value": 16210,
+          "Code": "NJ",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "New Mexico",
+          "Medical Expansion": "Y",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 1234,
+          "Code": "NM",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "New York",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "NY",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "North Carolina",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 12468,
+          "Code": "NC",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "North Dakota",
+          "Medical Expansion": "Y",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 426,
+          "Code": "ND",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Ohio",
+          "Medical Expansion": "Y",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 7208,
+          "Code": "OH",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Oklahoma",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 4248,
+          "Code": "OK",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Oregon",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "OR",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Pennsylvania",
+          "Medical Expansion": "N",
+          "Exchange": "SBM",
+          "Shop Type": "SHOP FFM",
+          "Value": 13245,
+          "Code": "PA",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Rhode Island",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "RI",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "South Carolina",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 9600,
+          "Code": "SC",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "South Dakota",
+          "Medical Expansion": "N",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 627,
+          "Code": "SD",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Tennessee",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 29996,
+          "Code": "TN",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Texas",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 38957,
+          "Code": "TX",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Utah",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP SBM",
+          "Value": 1766,
+          "Code": "UT",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Vermont",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "VT",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Virginia",
+          "Medical Expansion": "N",
+          "Exchange": "SBM",
+          "Shop Type": "SHOP FFM",
+          "Value": 8801,
+          "Code": "VA",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Washington",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "WA",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "West Virginia",
+          "Medical Expansion": "Y",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 2949,
+          "Code": "WV",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Wisconsin",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 16904,
+          "Code": "WI",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Paper Application Recd",
+          "State": "Wyoming",
+          "Medical Expansion": "N",
+          "Exchange": "SBM",
+          "Shop Type": "SHOP SBM",
+          "Value": 389,
+          "Code": "WY",
+          "Date": "12/11/2014"
+       }
+    ],
+    "Eligibility": [
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Alabama",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 316,
+          "Code": "AL",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Alaska",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 311,
+          "Code": "AK",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Arizona",
+          "Medical Expansion": "Y",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 398,
+          "Code": "AZ",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Arkansas",
+          "Medical Expansion": "Y",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 376,
+          "Code": "AR",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "California",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "CA",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Colorado",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "CO",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Connecticut",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "CT",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Delaware",
+          "Medical Expansion": "N",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 341,
+          "Code": "DE",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Florida",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 345,
+          "Code": "FL",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Georgia",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 315,
+          "Code": "GA",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Hawaii",
+          "Medical Expansion": "N",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP SBM",
+          "Value": 341,
+          "Code": "HI",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Idaho",
+          "Medical Expansion": "N",
+          "Exchange": "SBM",
+          "Shop Type": "SHOP SBM",
+          "Value": 328,
+          "Code": "ID",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Illinois",
+          "Medical Expansion": "Y",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 378,
+          "Code": "IL",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Indiana",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 390,
+          "Code": "IN",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Iowa",
+          "Medical Expansion": "Y",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 307,
+          "Code": "IA",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Kansas",
+          "Medical Expansion": "N",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 359,
+          "Code": "KS",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Kentucky",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "KY",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Louisiana",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 376,
+          "Code": "LA",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Maine",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 388,
+          "Code": "ME",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Maryland",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "MD",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Massachusetts",
+          "Medical Expansion": "N",
+          "Exchange": "SBM",
+          "Shop Type": "SHOP SBM",
+          "Value": 399,
+          "Code": "MA",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Michigan",
+          "Medical Expansion": "Y",
+          "Exchange": "SBM",
+          "Shop Type": "SHOP SBM",
+          "Value": 341,
+          "Code": "MI",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Minnesota",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "MN",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Mississippi",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP SBM",
+          "Value": 322,
+          "Code": "MS",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Missouri",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 345,
+          "Code": "MO",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Montana",
+          "Medical Expansion": "N",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 378,
+          "Code": "MT",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Nebraska",
+          "Medical Expansion": "N",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 358,
+          "Code": "NE",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Nevada",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "NV",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "New Hampshire",
+          "Medical Expansion": "Y",
+          "Exchange": "SPM ",
+          "Shop Type": "SHOP FFM",
+          "Value": 326,
+          "Code": "NH",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "New Jersey",
+          "Medical Expansion": "N",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP SBM",
+          "Value": 387,
+          "Code": "NJ",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "New Mexico",
+          "Medical Expansion": "Y",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 389,
+          "Code": "NM",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "New York",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "NY",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "North Carolina",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 345,
+          "Code": "NC",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "North Dakota",
+          "Medical Expansion": "Y",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 306,
+          "Code": "ND",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Ohio",
+          "Medical Expansion": "Y",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 329,
+          "Code": "OH",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Oklahoma",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 327,
+          "Code": "OK",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Oregon",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "OR",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Pennsylvania",
+          "Medical Expansion": "N",
+          "Exchange": "SBM",
+          "Shop Type": "SHOP FFM",
+          "Value": 349,
+          "Code": "PA",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Rhode Island",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP SBM",
+          "Value": 367,
+          "Code": "RI",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "South Carolina",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 350,
+          "Code": "SC",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "South Dakota",
+          "Medical Expansion": "N",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 349,
+          "Code": "SD",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Tennessee",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 367,
+          "Code": "TN",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Texas",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 345,
+          "Code": "TX",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Utah",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP SBM",
+          "Value": 389,
+          "Code": "UT",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Vermont",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "VT",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Virginia",
+          "Medical Expansion": "N",
+          "Exchange": "SBM",
+          "Shop Type": "SHOP FFM",
+          "Value": 356,
+          "Code": "VA",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Washington",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "WA",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "West Virginia",
+          "Medical Expansion": "Y",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 376,
+          "Code": "WV",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Wisconsin",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 398,
+          "Code": "WI",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Wyoming",
+          "Medical Expansion": "N",
+          "Exchange": "SBM",
+          "Shop Type": "SHOP SBM",
+          "Value": 329,
+          "Code": "WY",
+          "Date": "12/9/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Alabama",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 316,
+          "Code": "AL",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Alaska",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 311,
+          "Code": "AK",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Arizona",
+          "Medical Expansion": "Y",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 398,
+          "Code": "AZ",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Arkansas",
+          "Medical Expansion": "Y",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 376,
+          "Code": "AR",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "California",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "CA",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Colorado",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "CO",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Connecticut",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "CT",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Delaware",
+          "Medical Expansion": "N",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 341,
+          "Code": "DE",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Florida",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 345,
+          "Code": "FL",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Georgia",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 315,
+          "Code": "GA",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Hawaii",
+          "Medical Expansion": "N",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP SBM",
+          "Value": 341,
+          "Code": "HI",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Idaho",
+          "Medical Expansion": "N",
+          "Exchange": "SBM",
+          "Shop Type": "SHOP SBM",
+          "Value": 328,
+          "Code": "ID",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Illinois",
+          "Medical Expansion": "Y",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 378,
+          "Code": "IL",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Indiana",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 390,
+          "Code": "IN",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Iowa",
+          "Medical Expansion": "Y",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 307,
+          "Code": "IA",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Kansas",
+          "Medical Expansion": "N",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 359,
+          "Code": "KS",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Kentucky",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "KY",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Louisiana",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 376,
+          "Code": "LA",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Maine",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 388,
+          "Code": "ME",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Maryland",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "MD",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Massachusetts",
+          "Medical Expansion": "N",
+          "Exchange": "SBM",
+          "Shop Type": "SHOP SBM",
+          "Value": 399,
+          "Code": "MA",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Michigan",
+          "Medical Expansion": "Y",
+          "Exchange": "SBM",
+          "Shop Type": "SHOP SBM",
+          "Value": 341,
+          "Code": "MI",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Minnesota",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "MN",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Mississippi",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP SBM",
+          "Value": 322,
+          "Code": "MS",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Missouri",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 345,
+          "Code": "MO",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Montana",
+          "Medical Expansion": "N",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 378,
+          "Code": "MT",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Nebraska",
+          "Medical Expansion": "N",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 358,
+          "Code": "NE",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Nevada",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "NV",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "New Hampshire",
+          "Medical Expansion": "Y",
+          "Exchange": "SPM ",
+          "Shop Type": "SHOP FFM",
+          "Value": 326,
+          "Code": "NH",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "New Jersey",
+          "Medical Expansion": "N",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP SBM",
+          "Value": 387,
+          "Code": "NJ",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "New Mexico",
+          "Medical Expansion": "Y",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 389,
+          "Code": "NM",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "New York",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "NY",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "North Carolina",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 345,
+          "Code": "NC",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "North Dakota",
+          "Medical Expansion": "Y",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 306,
+          "Code": "ND",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Ohio",
+          "Medical Expansion": "Y",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 329,
+          "Code": "OH",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Oklahoma",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 327,
+          "Code": "OK",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Oregon",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "OR",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Pennsylvania",
+          "Medical Expansion": "N",
+          "Exchange": "SBM",
+          "Shop Type": "SHOP FFM",
+          "Value": 349,
+          "Code": "PA",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Rhode Island",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP SBM",
+          "Value": 367,
+          "Code": "RI",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "South Carolina",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 350,
+          "Code": "SC",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "South Dakota",
+          "Medical Expansion": "N",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 349,
+          "Code": "SD",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Tennessee",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 367,
+          "Code": "TN",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Texas",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 345,
+          "Code": "TX",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Utah",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP SBM",
+          "Value": 389,
+          "Code": "UT",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Vermont",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "VT",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Virginia",
+          "Medical Expansion": "N",
+          "Exchange": "SBM",
+          "Shop Type": "SHOP FFM",
+          "Value": 356,
+          "Code": "VA",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Washington",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "WA",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "West Virginia",
+          "Medical Expansion": "Y",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 376,
+          "Code": "WV",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Wisconsin",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 398,
+          "Code": "WI",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Wyoming",
+          "Medical Expansion": "N",
+          "Exchange": "SBM",
+          "Shop Type": "SHOP SBM",
+          "Value": 329,
+          "Code": "WY",
+          "Date": "12/10/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Alabama",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 316,
+          "Code": "AL",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Alaska",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 311,
+          "Code": "AK",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Arizona",
+          "Medical Expansion": "Y",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 398,
+          "Code": "AZ",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Arkansas",
+          "Medical Expansion": "Y",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 376,
+          "Code": "AR",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "California",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "CA",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Colorado",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "CO",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Connecticut",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "CT",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Delaware",
+          "Medical Expansion": "N",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 341,
+          "Code": "DE",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Florida",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 345,
+          "Code": "FL",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Georgia",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 315,
+          "Code": "GA",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Hawaii",
+          "Medical Expansion": "N",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP SBM",
+          "Value": 341,
+          "Code": "HI",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Idaho",
+          "Medical Expansion": "N",
+          "Exchange": "SBM",
+          "Shop Type": "SHOP SBM",
+          "Value": 328,
+          "Code": "ID",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Illinois",
+          "Medical Expansion": "Y",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 378,
+          "Code": "IL",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Indiana",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 390,
+          "Code": "IN",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Iowa",
+          "Medical Expansion": "Y",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 307,
+          "Code": "IA",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Kansas",
+          "Medical Expansion": "N",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 359,
+          "Code": "KS",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Kentucky",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "KY",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Louisiana",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 376,
+          "Code": "LA",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Maine",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 388,
+          "Code": "ME",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Maryland",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "MD",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Massachusetts",
+          "Medical Expansion": "N",
+          "Exchange": "SBM",
+          "Shop Type": "SHOP SBM",
+          "Value": 399,
+          "Code": "MA",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Michigan",
+          "Medical Expansion": "Y",
+          "Exchange": "SBM",
+          "Shop Type": "SHOP SBM",
+          "Value": 341,
+          "Code": "MI",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Minnesota",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "MN",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Mississippi",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP SBM",
+          "Value": 322,
+          "Code": "MS",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Missouri",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 345,
+          "Code": "MO",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Montana",
+          "Medical Expansion": "N",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 378,
+          "Code": "MT",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Nebraska",
+          "Medical Expansion": "N",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 358,
+          "Code": "NE",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Nevada",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "NV",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "New Hampshire",
+          "Medical Expansion": "Y",
+          "Exchange": "SPM ",
+          "Shop Type": "SHOP FFM",
+          "Value": 326,
+          "Code": "NH",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "New Jersey",
+          "Medical Expansion": "N",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP SBM",
+          "Value": 387,
+          "Code": "NJ",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "New Mexico",
+          "Medical Expansion": "Y",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 389,
+          "Code": "NM",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "New York",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "NY",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "North Carolina",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 345,
+          "Code": "NC",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "North Dakota",
+          "Medical Expansion": "Y",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 306,
+          "Code": "ND",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Ohio",
+          "Medical Expansion": "Y",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 329,
+          "Code": "OH",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Oklahoma",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 327,
+          "Code": "OK",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Oregon",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "OR",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Pennsylvania",
+          "Medical Expansion": "N",
+          "Exchange": "SBM",
+          "Shop Type": "SHOP FFM",
+          "Value": 349,
+          "Code": "PA",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Rhode Island",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP SBM",
+          "Value": 367,
+          "Code": "RI",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "South Carolina",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 350,
+          "Code": "SC",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "South Dakota",
+          "Medical Expansion": "N",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 349,
+          "Code": "SD",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Tennessee",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 367,
+          "Code": "TN",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Texas",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 345,
+          "Code": "TX",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Utah",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP SBM",
+          "Value": 389,
+          "Code": "UT",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Vermont",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "VT",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Virginia",
+          "Medical Expansion": "N",
+          "Exchange": "SBM",
+          "Shop Type": "SHOP FFM",
+          "Value": 356,
+          "Code": "VA",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Washington",
+          "Medical Expansion": "",
+          "Exchange": "",
+          "Shop Type": "",
+          "Value": 673,
+          "Code": "WA",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "West Virginia",
+          "Medical Expansion": "Y",
+          "Exchange": "SPM",
+          "Shop Type": "SHOP FFM",
+          "Value": 376,
+          "Code": "WV",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Wisconsin",
+          "Medical Expansion": "N",
+          "Exchange": "FFM",
+          "Shop Type": "SHOP FFM",
+          "Value": 398,
+          "Code": "WI",
+          "Date": "12/11/2014"
+       },
+       {
+          "Metric": "Individual Determined Eligible for Enrollment",
+          "State": "Wyoming",
+          "Medical Expansion": "N",
+          "Exchange": "SBM",
+          "Shop Type": "SHOP SBM",
+          "Value": 329,
+          "Code": "WY",
+          "Date": "12/11/2014"
+       }
+    ]
+ }
