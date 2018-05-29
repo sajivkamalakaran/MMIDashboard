@@ -1,21 +1,15 @@
-var bar1 = new BarChart("#bar", [{
-    name: "Sharan",
-    value: 45,
-    g:33
-},
-{
-    name:"Sajiv",
-    value:43,
-    g:53
-},{
-    name:"Anu",
-    value:36,
-    g:32
-},{
-    name:"Jahnvi",
-    value:30,
-    g:54
-}],"name","value");
+d3.json("data/bar.json",function(data){
+    var enrolled = data["Enrolled"].map((d) => parseInt(d));
+    var target = data["Target"].map((d) => parseInt(d));
+    var dates = data["Date"]
+    var dt = {
+        date:dates,
+        enrolled:enrolled,
+        target:target
+    }
+    console.log(dt);
+    var bar = new BarChart("#bar",dt,"date","enrolled","Enrolled","time","linear")
+})
 // $("#bar-select").on("change",function(){
 //     bar1.wrangleData("name",$("#var-select").val())
 // })
